@@ -209,7 +209,7 @@ Test Data should contain:
 {
    "user":{
       "profile":{
-         "male":"true"
+         "male":true
       }
    }
 }
